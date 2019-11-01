@@ -11,6 +11,7 @@ class Details
     私のポジションは#{@position}です。
     得意なプレイは#{@play}です。
     好きな選手は#{@player}です。
+    宜しくお願い致します。
 
     EOS
   end
