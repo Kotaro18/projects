@@ -5,7 +5,7 @@ class User
     @birthday = "1988/1/8"
     @age = 31
     @birthplace = "Saga"
-    @hobby = "Footsal"
+    @hobby = "Footsalclass User"
   end
 
   def introduce
